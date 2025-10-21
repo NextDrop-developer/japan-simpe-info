@@ -1,0 +1,132 @@
+body{
+
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1070%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(255%2c 255%2c 255%2c 1)'%3e%3c/rect%3e%3cpath d='M307.453%2c292.636C342.886%2c294.395%2c377.232%2c274.09%2c393.08%2c242.349C407.632%2c213.204%2c395.552%2c179.58%2c377.41%2c152.523C361.582%2c128.917%2c335.865%2c115.375%2c307.453%2c114.65C277.559%2c113.887%2c246.436%2c123.159%2c231.028%2c148.788C215.226%2c175.072%2c220.999%2c207.437%2c235.388%2c234.52C250.906%2c263.728%2c274.419%2c290.996%2c307.453%2c292.636' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1292.361%2c469.991C1318.46%2c469.071%2c1339.961%2c452.104%2c1353.331%2c429.671C1367.087%2c406.589%2c1375.134%2c377.692%2c1360.981%2c354.852C1347.327%2c332.818%2c1318.271%2c330.488%2c1292.361%2c331.28C1268.225%2c332.018%2c1244.074%2c338.769%2c1230.645%2c358.838C1215.594%2c381.331%2c1210.322%2c410.589%2c1223.46%2c434.25C1236.921%2c458.495%2c1264.647%2c470.968%2c1292.361%2c469.991' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1106.954%2c579.698C1153.421%2c576.924%2c1184.42%2c537.305%2c1207.577%2c496.924C1230.574%2c456.821%2c1248.992%2c410.149%2c1227.718%2c369.106C1205.067%2c325.406%2c1156.174%2c302.372%2c1106.954%2c302.793C1058.473%2c303.208%2c1014.563%2c329.51%2c989.72%2c371.144C964.212%2c413.893%2c958.726%2c466.93%2c983.119%2c510.325C1007.968%2c554.53%2c1056.333%2c582.72%2c1106.954%2c579.698' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1053.505%2c252.542C1086.344%2c252.802%2c1117.399%2c237.191%2c1134.563%2c209.194C1152.544%2c179.864%2c1155.335%2c143.31%2c1139.053%2c113.004C1121.885%2c81.049%2c1089.723%2c60.346%2c1053.505%2c58.317C1013.235%2c56.061%2c968.377%2c66.709%2c949.569%2c102.388C931.497%2c136.671%2c952.583%2c176.062%2c974.64%2c207.928C993.064%2c234.545%2c1021.134%2c252.286%2c1053.505%2c252.542' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M446.511%2c589.836C490.681%2c589.168%2c533.798%2c567.602%2c553.67%2c528.149C572.022%2c491.713%2c554.15%2c451.239%2c534.263%2c415.617C513.652%2c378.698%2c488.743%2c338.273%2c446.511%2c336.2C401.759%2c334.003%2c364.882%2c367.415%2c342.452%2c406.202C319.99%2c445.044%2c311.463%2c492.442%2c333.584%2c531.479C355.974%2c570.99%2c401.102%2c590.523%2c446.511%2c589.836' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1070'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+
+}
+.block{
+
+text-align: center
+
+}
+.maino {
+
+background-color: white;
+
+}
+
+.center{
+
+text-align: center;
+}
+
+.infos{
+
+  font-size: 30px;
+  text-align: left;
+}
+.textinfo{
+text-decoration:underline;
+  background-color: white;
+}
+
+
+
+.infos1{
+font-size: 20px;
+text-align: left;
+}
+
+.textinfo1{
+background-color: white;
+}
+
+.infos2{
+
+font-size: 20px;
+text-align:left;
+}
+
+
+.textinfo2{
+
+background-color: white
+
+}
+
+.infos3{
+
+font-size: 20px;
+text-align:left;
+
+}
+
+
+
+
+.textinfo3{
+
+background-color: white
+}
+
+
+.infos4{
+
+font-size: 20px;
+text-align: left
+}
+
+.textinfo4{
+
+background-color: white
+}
+
+
+.infos5{
+
+font-size: 20px;
+text-align:left;
+
+}
+
+
+.textinfo5{
+
+background-color:white
+
+}
+
+
+.infos6{
+
+font-size: 20px;
+text-align: left;
+
+}
+
+.textinfo6{
+
+background-color:white
+
+}
+
+/* die japan architektur */
+.überschrift{
+
+font-size: 25px;
+text-align: left;
+}
+
+.überschrifttext{
+
+background-color: white;
+color: brown
+
+}
+
+.bilder{
+text-align: left
+}
+.bilder1{
+text-align: center
+
+}
